@@ -263,14 +263,307 @@
       "createdAt": 1675780099388,
       "updateAt": 1675780099388,
       "id": 24
+    },
+    {
+      "email": "hieu@gmail.com",
+      "password": "$2a$10$KErkTRlY1abShdn2KLO7.ec6giQy8W/dKsG5PeuDvCh.WLdL60dAi",
+      "username": "hieuthu3",
+      "address": "halam thang binh quangr ngai",
+      "phone": 840389809017,
+      "confirmPassword": "123123123",
+      "createdAt": 1675854119292,
+      "updateAt": 1675854119292,
+      "id": 25
+    },
+    {
+      "email": "quoceric21399@gmail.com",
+      "password": "$2a$10$r2CrngRMzUyT4oVc5D1uiOpatF6BDJLBwVGuFtF7XhPvBSrz82GyC",
+      "username": "quocvippro92111",
+      "address": "123123",
+      "phone": 840389809017,
+      "confirmPassword": "123123123",
+      "createdAt": 1675860921300,
+      "updateAt": 1675860921300,
+      "id": 26
+    },
+    {
+      "password": "123123123",
+      "email": "quoceric99@gmail.com",
+      "id": 27
+    },
+    {
+      "password": "123123123",
+      "email": "quoceric99@gmail.com",
+      "id": 28
+    },
+    {
+      "password": "123123123",
+      "email": "quoceric99@gmail.com",
+      "id": 29
+    },
+    {
+      "password": "123123123",
+      "email": "quoceric99@gmail.com",
+      "id": 30
+    },
+    {
+      "password": "123123123",
+      "email": "quoceric99@gmail.com",
+      "id": 31
     }
   ],
   "product": [
     {
-      "img": "93849084"
+      "category": "men's clothing",
+      "description": "Áo thun OverDose Thái Lan dễ dàng phối với nhiều kiểu quần, váy và phụ kiện thời trang sành điệu khác, tăng thêm phần năng động và trẻ trung khi mặc.",
+      "image": "https://salt.tikicdn.com/cache/w1200/ts/product/0a/d3/45/ab375f97a9b27431501cedf4be089bea.jpg",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 1,
+      "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1"
     },
     {
-      "title": "asdsad"
+      "category": "men's clothing",
+      "description": "Áo thun OverDose Thái Lan thiết kế kiểu mẫu ngắn tay, cổ tròn, ôm vừa người, in hình cô gái Hawaii nhảy múa cá tính, xinh xắn và độc đáo.",
+      "image": "https://www.shophaiyen.com/wp-content/uploads/2017/08/M%E1%BA%B7t-sau-%C3%81o-thun-Overdoe-Th%C3%A1i-Lan-m%C3%A0u-tr%E1%BA%AFng.jpg",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 2,
+      "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 "
+    },
+    {
+      "category": "men's clothing",
+      "description": "Áo thun trắng trắng trắng được cách ly trên nền trắng. Kết cấu hoặc nền bức ảnh sẵn có Sơ mi, Biểu trưng - Biểu tượng, Bán lẻ, Bông - Vải, Chỗ trống",
+      "image": "https://studiovietnam.com/wp-content/uploads/2020/08/50-mau-anh-chup-ao-thun-nam-12.jpg",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 3,
+      "title": "Áo thun Thái Lan màu trắng in hình cô gái Hawaii nhảy múa"
+    },
+    {
+      "category": "men's clothing",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "image": "https://thuviendohoa.vn/upload/images/items/hinh-anh-ao-phong-nam-mau-trang-png-514.webp",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 4,
+      "title": "áo phông nam màu trắng - PNG"
+    },
+    {
+      "category": "men's clothing",
+      "description": "Áo polo nam bông thưa nền trắng viền nổi An Phước",
+      "image": "https://thuviendohoa.vn/upload/images/items/hinh-anh-ao-phong-nam-mau-trang-png-514.webp",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 5,
+      "title": "Áo polo nam bông thưa nền trắng viền nổi An Phước ATH000538"
+    },
+    {
+      "category": "men's clothing",
+      "description": "great outerwear jackets for Spring/Autumn/Winte",
+      "image": "https://gecko.vn/media/assets/product-design/tayngan-100/thienthanh/mat-truoc.png",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 6,
+      "title": "Mens Cotton Jacket"
+    },
+    {
+      "category": "men's clothing",
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 7,
+      "title": "Mens Cotton Jacket"
+    },
+    {
+      "category": "men's clothing",
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "price": 109.95,
+      "rating": {
+        "count": 120,
+        "rate": 3.9
+      },
+      "id": 8,
+      "title": "Mens Casual Slim Fit"
+    },
+    {
+      "category": "women's clothing",
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "price": 56.99,
+      "rating": {
+        "count": 235,
+        "rate": 2.6
+      },
+      "id": 9,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats"
+    },
+    {
+      "category": "women's clothing",
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "price": 56.99,
+      "rating": {
+        "count": 235,
+        "rate": 2.6
+      },
+      "id": 10,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats"
+    },
+    {
+      "category": "women's clothing",
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "price": 29.95,
+      "rating": {
+        "count": 340,
+        "rate": 2.9
+      },
+      "id": 11,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket"
+    },
+    {
+      "category": "women's clothing",
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "price": 39.99,
+      "rating": {
+        "count": 679,
+        "rate": 3.8
+      },
+      "id": 12,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats"
+    },
+    {
+      "category": "women's clothing",
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "price": 9.85,
+      "rating": {
+        "count": 130,
+        "rate": 4.7
+      },
+      "id": 13,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V "
+    },
+    {
+      "category": "men's clothing",
+      "description": "Quần tây âu với kết cấu vải rất bền và chuẩn form cho nam giới",
+      "image": "https://thoitrangbigsize.vn/wp-content/uploads/2020/12/BS1774-1.jpg",
+      "price": 91.85,
+      "rating": {
+        "count": 330,
+        "rate": 4.7
+      },
+      "id": 14,
+      "title": "Quần Tây Âu  đen"
+    },
+    {
+      "category": "men's clothing",
+      "description": "Quần tây âu với kết cấu vải rất bền và chuẩn form cho nam giới",
+      "image": "https://thoitrangbigsize.vn/wp-content/uploads/2020/12/BS1773-4.jpg",
+      "price": 91.85,
+      "rating": {
+        "count": 330,
+        "rate": 4.7
+      },
+      "id": 15,
+      "title": "Quần Tây Âu kem "
+    },
+    {
+      "category": "men's clothing",
+      "description": "Quần tây âu với kết cấu vải rất bền và chuẩn form cho nam giới",
+      "image": "https://thoitrangbigsize.vn/wp-content/uploads/2020/12/BS1775-1.jpg",
+      "price": 91.85,
+      "rating": {
+        "count": 330,
+        "rate": 4.7
+      },
+      "id": 16,
+      "title": "Quần Tây Âu jean"
+    },
+    {
+      "category": "men's clothing",
+      "description": "Quần jeans nam giới với kết cấu vải rất bền và chuẩn form cho nam giới",
+      "image": "https://aaajeans.com/wp-content/uploads/2019/07/quan-jeans-nu-AG.jpg",
+      "price": 81.85,
+      "rating": {
+        "count": 30,
+        "rate": 4.7
+      },
+      "id": 17,
+      "title": "Quần jeans thời thượng "
+    },
+    {
+      "category": "men's clothing",
+      "description": "Quần kaki với kết cấu vải rất bền và chuẩn form cho nam giới giới trẻ rất ưa chuộng",
+      "image": "https://thoitrangteenthienphuc.vn/upload/news/quan-3-7566.jpg",
+      "price": 91.85,
+      "rating": {
+        "count": 330,
+        "rate": 4.7
+      },
+      "id": 18,
+      "title": "Quần kaki "
+    },
+    {
+      "category": "women's clothing",
+      "description": "chân váy nữ độc đáo cho phái nữ và nhiều giới trẻ ưa chuộng nó",
+      "image": "https://bizweb.dktcdn.net/100/363/120/products/30149t.jpg?v=1648438898000",
+      "price": 89.99,
+      "rating": {
+        "count": 679,
+        "rate": 3.8
+      },
+      "id": 19,
+      "title": "Chân váy nữ màu trắng TRALI 30149 THỜI TRANG TRALI"
+    },
+    {
+      "category": "women's clothing",
+      "description": "đầm váy nữ mùa hè nhẹ nhàng dáng dài thích hợp cho chị em phụ nữ mặc đi du lịch, ăn tiệc cưới v.v",
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/403/511/products/o1cn012ruhby1vf1komtohs2895242.jpg",
+      "price": 89.99,
+      "rating": {
+        "count": 679,
+        "rate": 3.8
+      },
+      "id": 20,
+      "title": "Mã C893: đầm váy nữ mùa hè nhẹ nhàng dáng dài"
+    },
+    {
+      "category": "women's clothing",
+      "description": "Váy Đầm Nữ Hè Công Sở Eo Cao Trẻ Trung Thanh Lịch với chất vải thượng hạng dệt từ tằm polai",
+      "image": "https://luzy.vn/wp-content/uploads/2020/05/LZD10951-18.jpg",
+      "price": 89.99,
+      "rating": {
+        "count": 679,
+        "rate": 3.8
+      },
+      "id": 21,
+      "title": "Váy Đầm Nữ Hè Công Sở Eo Cao Trẻ Trung Thanh Lịch LZD10951 – Hàng Quảng  Châu Cao Cấp"
     }
   ]
 }

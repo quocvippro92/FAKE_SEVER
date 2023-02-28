@@ -1,4 +1,33 @@
 {
+  "contact": [
+    {
+      "userId": "1",
+      "name": "quoc huynh",
+      "phone": 840389809017,
+      "address_line": "442 Tiểu la",
+      "province_city": "Quảng nam",
+      "district": "Thăng bình",
+      "sub_district": "không có",
+      "createdAt": 1677558046391,
+      "updateAt": 1677558046391,
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product_id": 3,
+      "customer_id": 1,
+      "price": 109.95,
+      "quantity": 2,
+      "category": "men's clothing",
+      "title": "Áo thun Thái Lan màu trắng in hình cô gái Hawaii nhảy múa",
+      "image": "https://studiovietnam.com/wp-content/uploads/2020/08/50-mau-anh-chup-ao-thun-nam-12.jpg",
+      "size": "X/XL",
+      "createdAt": 1677566610590,
+      "updateAt": 1677566610590,
+      "id": 1
+    }
+  ],
   "users": [
     {
       "email": "quoceric99@gmail.com",
@@ -310,6 +339,28 @@
       "password": "123123123",
       "email": "quoceric99@gmail.com",
       "id": 31
+    },
+    {
+      "email": "quoceric919@gmail.com",
+      "password": "$2a$10$uYoZ6PGCKqXuekYZbeTyXO/dgh0KLpC535RpWvfWvWKXvivfT8NmK",
+      "username": "quocvippro92111",
+      "address": "halam12",
+      "phone": 840389809017,
+      "confirmPassword": "halam123",
+      "createdAt": 1676459222881,
+      "updateAt": 1676459222881,
+      "id": 32
+    },
+    {
+      "email": "hieunhagiau@gmail.com",
+      "password": "$2a$10$AdrTzlBrtkq/rW.xPfnQKOfwvEk2HEDx9WrsxABLtVVOszMgywRLe",
+      "username": "hieuthu3",
+      "address": "to8 halam",
+      "phone": 840389809017,
+      "confirmPassword": "123123123",
+      "createdAt": 1676898004163,
+      "updateAt": 1676898004163,
+      "id": 33
     }
   ],
   "product": [
@@ -322,7 +373,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 1,
+      "quantity": 1,
       "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1"
     },
     {
@@ -334,7 +398,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 2,
+      "quantity": 1,
       "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 "
     },
     {
@@ -346,7 +423,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 3,
+      "quantity": 1,
       "title": "Áo thun Thái Lan màu trắng in hình cô gái Hawaii nhảy múa"
     },
     {
@@ -358,7 +448,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 4,
+      "quantity": 1,
       "title": "áo phông nam màu trắng - PNG"
     },
     {
@@ -370,7 +473,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 5,
+      "quantity": 1,
       "title": "Áo polo nam bông thưa nền trắng viền nổi An Phước ATH000538"
     },
     {
@@ -382,7 +498,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 6,
+      "quantity": 1,
       "title": "Mens Cotton Jacket"
     },
     {
@@ -394,7 +523,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 7,
+      "quantity": 1,
       "title": "Mens Cotton Jacket"
     },
     {
@@ -406,7 +548,20 @@
         "count": 120,
         "rate": 3.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 8,
+      "quantity": 1,
       "title": "Mens Casual Slim Fit"
     },
     {
@@ -418,7 +573,20 @@
         "count": 235,
         "rate": 2.6
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 9,
+      "quantity": 1,
       "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats"
     },
     {
@@ -430,7 +598,20 @@
         "count": 235,
         "rate": 2.6
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 10,
+      "quantity": 1,
       "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats"
     },
     {
@@ -442,7 +623,20 @@
         "count": 340,
         "rate": 2.9
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 11,
+      "quantity": 1,
       "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket"
     },
     {
@@ -454,7 +648,20 @@
         "count": 679,
         "rate": 3.8
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 12,
+      "quantity": 1,
       "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats"
     },
     {
@@ -466,7 +673,20 @@
         "count": 130,
         "rate": 4.7
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 13,
+      "quantity": 1,
       "title": "MBJ Women's Solid Short Sleeve Boat Neck V "
     },
     {
@@ -478,7 +698,20 @@
         "count": 330,
         "rate": 4.7
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 14,
+      "quantity": 1,
       "title": "Quần Tây Âu  đen"
     },
     {
@@ -490,7 +723,20 @@
         "count": 330,
         "rate": 4.7
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 15,
+      "quantity": 1,
       "title": "Quần Tây Âu kem "
     },
     {
@@ -502,7 +748,20 @@
         "count": 330,
         "rate": 4.7
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 16,
+      "quantity": 1,
       "title": "Quần Tây Âu jean"
     },
     {
@@ -514,7 +773,20 @@
         "count": 30,
         "rate": 4.7
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 17,
+      "quantity": 1,
       "title": "Quần jeans thời thượng "
     },
     {
@@ -526,7 +798,20 @@
         "count": 330,
         "rate": 4.7
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 18,
+      "quantity": 1,
       "title": "Quần kaki "
     },
     {
@@ -538,7 +823,20 @@
         "count": 679,
         "rate": 3.8
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 19,
+      "quantity": 1,
       "title": "Chân váy nữ màu trắng TRALI 30149 THỜI TRANG TRALI"
     },
     {
@@ -550,7 +848,20 @@
         "count": 679,
         "rate": 3.8
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 20,
+      "quantity": 1,
       "title": "Mã C893: đầm váy nữ mùa hè nhẹ nhàng dáng dài"
     },
     {
@@ -562,7 +873,20 @@
         "count": 679,
         "rate": 3.8
       },
+      "size": {
+        "x": "X",
+        "l": "L",
+        "xl": "XL",
+        "xs": "XS"
+      },
+      "mau": {
+        "do": "đỏ",
+        "trang": "trắng",
+        "nâu": "nâu",
+        "xanh":"xanh"
+      },
       "id": 21,
+      "quantity": 1,
       "title": "Váy Đầm Nữ Hè Công Sở Eo Cao Trẻ Trung Thanh Lịch LZD10951 – Hàng Quảng  Châu Cao Cấp"
     }
   ]

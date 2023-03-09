@@ -4,148 +4,12 @@
       "email": "quoceric99@gmail.com",
       "name": "huỳnh ngọc vương quoc",
       "phone": 840389809017,
-      "address": "442",
-      "city": "Tỉnh Hà Giang",
-      "district": "Quận Hoàn Kiếm",
-      "ward": "Phường Trúc Bạch",
-      "textarea": "123123123",
-      "product": [
-        {
-          "product_id": 6,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 2,
-          "category": "men's clothing",
-          "title": "Mens Cotton Jacket",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_360x.jpg?v=1676635740 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_540x.jpg?v=1676635740 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_720x.jpg?v=1676635740 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_1000x.jpg?v=1676635740 1000w",
-          "size": "XL",
-          "color": "xanh"
-        },
-        {
-          "product_id": 2,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 1,
-          "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 ",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-          "size": "X",
-          "color": "xanh"
-        }
-      ],
-      "totalPrice": 334.85,
-      "createdAt": 1678021968722,
-      "updateAt": 1678021968722,
-      "id": 1
-    },
-    {
-      "email": "quoceric99@gmail.com",
-      "name": "huỳnh ngọc vương quoc",
-      "phone": 840389809017,
-      "address": "123",
-      "city": "Tỉnh Hà Giang",
-      "district": "Quận Hoàn Kiếm",
-      "ward": "Phường Vĩnh Phúc",
-      "textarea": "123",
-      "product": [
-        {
-          "product_id": 6,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 2,
-          "category": "men's clothing",
-          "title": "Mens Cotton Jacket",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_360x.jpg?v=1676635740 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_540x.jpg?v=1676635740 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_720x.jpg?v=1676635740 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_1000x.jpg?v=1676635740 1000w",
-          "size": "XL",
-          "color": "xanh"
-        },
-        {
-          "product_id": 2,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 1,
-          "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 ",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-          "size": "X",
-          "color": "xanh"
-        }
-      ],
-      "totalPrice": 334.85,
-      "createdAt": 1678023761363,
-      "updateAt": 1678023761363,
-      "id": 4
-    },
-    {
-      "email": "quoceric99@gmail.com",
-      "name": "huỳnh ngọc vương quoc",
-      "phone": 840389809017,
-      "address": "442",
-      "city": "Tỉnh Hà Giang",
-      "district": "Quận Hoàn Kiếm",
-      "ward": "Phường Trúc Bạch",
-      "textarea": "123",
-      "product": [
-        {
-          "product_id": 6,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 2,
-          "category": "men's clothing",
-          "title": "Mens Cotton Jacket",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_360x.jpg?v=1676635740 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_540x.jpg?v=1676635740 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_720x.jpg?v=1676635740 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_1000x.jpg?v=1676635740 1000w",
-          "size": "XL",
-          "color": "xanh"
-        },
-        {
-          "product_id": 2,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 1,
-          "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 ",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-          "size": "X",
-          "color": "xanh"
-        }
-      ],
-      "totalPrice": 329.85,
-      "createdAt": 1678024700873,
-      "updateAt": 1678024700873,
-      "id": 5
-    },
-    {
-      "email": "quoceric99@gmail.com",
-      "name": "huỳnh ngọc vương quoc",
-      "phone": 840389809017,
       "address": "442 tieu la",
-      "city": "Tỉnh Cao Bằng",
-      "district": "Quận Tây Hồ",
+      "city": "Tỉnh Hà Giang",
+      "district": "Quận Hoàn Kiếm",
       "ward": "Phường Vĩnh Phúc",
       "textarea": "123123",
       "product": [
-        {
-          "product_id": 6,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 2,
-          "category": "men's clothing",
-          "title": "Mens Cotton Jacket",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_360x.jpg?v=1676635740 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_540x.jpg?v=1676635740 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_720x.jpg?v=1676635740 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_1000x.jpg?v=1676635740 1000w",
-          "size": "XL",
-          "color": "xanh"
-        },
-        {
-          "product_id": 2,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 1,
-          "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 ",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-          "size": "X",
-          "color": "xanh"
-        },
         {
           "product_id": 1,
           "customer_id": 1,
@@ -156,200 +20,114 @@
           "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
           "size": "L",
           "color": "xanh"
+        },
+        {
+          "product_id": 5,
+          "customer_id": 1,
+          "price": 109.95,
+          "quantity": 1,
+          "category": "men's clothing",
+          "title": "Áo polo nam bông thưa nền trắng viền nổi An Phước ATH000538",
+          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_360x.jpg?v=1676635738 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_540x.jpg?v=1676635738 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_720x.jpg?v=1676635738 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_1000x.jpg?v=1676635738 1000w",
+          "size": "size",
+          "color": "trắng"
         }
       ],
-      "totalPrice": 444.8,
-      "createdAt": 1678100909290,
-      "updateAt": 1678100909290,
-      "id": 6
+      "totalPrice": 229.9,
+      "createdAt": 1678330912856,
+      "updateAt": 1678330912856,
+      "id": 1,
+      "firstname": "huỳnh ngọc vương quoc"
     },
     {
-      "email": "quoceric99@gmail.com",
+      "email": "quoceric9999@gmail.com",
       "name": "huỳnh ngọc vương quoc",
       "phone": 840389809017,
-      "address": "442 tieu la",
-      "city": "Tỉnh Điện Biên",
-      "district": "Quận Cầu Giấy",
+      "address": "21312",
+      "city": "Tỉnh Hà Giang",
+      "district": "Quận Hoàn Kiếm",
       "ward": "Phường Vĩnh Phúc",
-      "textarea": "123123",
+      "textarea": "12312312",
       "product": [
         {
-          "product_id": 6,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 2,
-          "category": "men's clothing",
-          "title": "Mens Cotton Jacket",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_360x.jpg?v=1676635740 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_540x.jpg?v=1676635740 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_720x.jpg?v=1676635740 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_1000x.jpg?v=1676635740 1000w",
-          "size": "XL",
-          "color": "xanh"
-        },
-        {
-          "product_id": 2,
-          "customer_id": 1,
+          "product_id": 3,
+          "customer_id": 34,
           "price": 109.95,
           "quantity": 1,
           "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 ",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-          "size": "X",
-          "color": "xanh"
-        },
-        {
-          "product_id": 1,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 1,
-          "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
+          "title": "Áo thun Thái Lan màu trắng in hình cô gái Hawaii nhảy múa",
+          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_360x.jpg?v=1676635734 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_540x.jpg?v=1676635734 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_720x.jpg?v=1676635734 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_1000x.jpg?v=1676635734 1000w",
           "size": "L",
           "color": "xanh"
         }
       ],
-      "totalPrice": 449.8,
-      "createdAt": 1678101187175,
-      "updateAt": 1678101187175,
-      "id": 8
-    },
-    {
-      "email": "quoceric99@gmail.com",
-      "name": "huỳnh ngọc vương quoc",
-      "phone": 840389809017,
-      "address": "442 tieu la",
-      "city": "Tỉnh Điện Biên",
-      "district": "Quận Cầu Giấy",
-      "ward": "Phường Vĩnh Phúc",
-      "textarea": "123123",
-      "product": [
-        {
-          "product_id": 6,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 2,
-          "category": "men's clothing",
-          "title": "Mens Cotton Jacket",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_360x.jpg?v=1676635740 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_540x.jpg?v=1676635740 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_720x.jpg?v=1676635740 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-off-white-543635_1000x.jpg?v=1676635740 1000w",
-          "size": "XL",
-          "color": "xanh"
-        },
-        {
-          "product_id": 2,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 1,
-          "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 ",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-          "size": "X",
-          "color": "xanh"
-        },
-        {
-          "product_id": 1,
-          "customer_id": 1,
-          "price": 109.95,
-          "quantity": 1,
-          "category": "men's clothing",
-          "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1",
-          "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-          "size": "L",
-          "color": "xanh"
-        }
-      ],
-      "totalPrice": 449.8,
-      "createdAt": 1678101191267,
-      "updateAt": 1678101191267,
-      "id": 9
+      "totalPrice": 119.95,
+      "createdAt": 1678339490487,
+      "updateAt": 1678339490487,
+      "id": 2,
+      "firstname": "huỳnh ngọc vương quoc"
     }
   ],
-  "contact": [
-    {
-      "userId": "1",
-      "name": "quoc huynh",
-      "phone": 840389809017,
-      "address_line": "442 Tiểu la",
-      "province_city": "Quảng nam",
-      "district": "Thăng bình",
-      "sub_district": "không có",
-      "createdAt": 1677558046391,
-      "updateAt": 1677558046391,
-      "id": 1
-    },
-    {
-      "userId": "2",
-      "name": "quoceric",
-      "phone": 840389809017,
-      "address_line": "442 Tiểu la",
-      "province_city": "da nang",
-      "district": "hai chau",
-      "sub_district": "khong co",
-      "createdAt": 1677734519266,
-      "updateAt": 1677734519266,
-      "id": 2
-    }
-  ],
+  "contact": [],
   "cart": [
     {
       "product_id": 1,
       "customer_id": 1,
       "price": 109.95,
-      "quantity": 3,
+      "quantity": 1,
       "category": "men's clothing",
       "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1",
       "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
-      "size": "size",
-      "color": "trắng",
-      "createdAt": 1678167533756,
-      "updateAt": 1678167533756,
-      "id": 1
-    }
-  ],
-  "users": [
-    {
-      "email": "quoceric99@gmail.com",
-      "password": "$2a$10$16Qj2szXbbo2LF0WBtcFLuICxCVXsCJvLTRsaCJgbzjm6m2AKTrxK",
-      "username": "quocvippro92",
-      "address": "halam, thangbinh,quang nam123",
-      "phone": 840389809017,
-      "confirmPassword": "123123123",
-      "createdAt": 1675739877443,
-      "updateAt": 1675739877443,
-      "id": 1,
-      "admin": "admin"
-    },
-    {
-      "email": "quoceric999@gmail.com",
-      "password": "$2a$10$xRiJpJclamTDDDKNMtRXeOffB1SFcFmEqcJUVR.3bgfAxvAHnDyIi",
-      "username": "quocvippro929",
-      "address": "halam thang binh9 quảng nam",
-      "phone": 840389809017,
-      "confirmPassword": "123123123",
-      "createdAt": 1675739924106,
-      "updateAt": 1675739924106,
-      "id": 2
-    },
-    {
-      "email": "quoceric993@gmail.com",
-      "password": "$2a$10$.mLXXjMnzAWZZ3KtaGpufugjqcEJ8wNB6xL1myNJCbPhimiNLDGT.",
-      "username": "quocvippro9292",
-      "address": "halam thang 3binh9 quảng nam",
-      "phone": 840389809017,
-      "confirmPassword": "123123123",
-      "createdAt": 1675739936213,
-      "updateAt": 1675739936213,
+      "size": "L",
+      "color": "xanh",
+      "createdAt": 1678100828862,
+      "updateAt": 1678100828862,
       "id": 3
     },
     {
-      "email": "hieunguyen@gmail.com",
-      "password": "$2a$10$3Hvbv8JFjdMSt9g8f8L7me6fTKsQ8NllYaMZgs6ip37ZcSV9O06xe",
-      "username": "nguyen cong hieu",
-      "address": "phan chaau trinh quang nam",
-      "phone": 840389809017,
-      "confirmPassword": "123123123",
-      "createdAt": 1675740259973,
-      "updateAt": 1675740259973,
+      "product_id": 5,
+      "customer_id": 1,
+      "price": 109.95,
+      "quantity": 1,
+      "category": "men's clothing",
+      "title": "Áo polo nam bông thưa nền trắng viền nổi An Phước ATH000538",
+      "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_360x.jpg?v=1676635738 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_540x.jpg?v=1676635738 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_720x.jpg?v=1676635738 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-mocha-706364_1000x.jpg?v=1676635738 1000w",
+      "size": "size",
+      "color": "trắng",
+      "createdAt": 1678101432359,
+      "updateAt": 1678101432359,
       "id": 4
     },
+    {
+      "product_id": 2,
+      "customer_id": 2,
+      "price": 109.95,
+      "quantity": 1,
+      "category": "men's clothing",
+      "title": "Áo thun OverDose Thái Lan màu trắng in hình cô gái Hawaii nhảy múa T0021-1 ",
+      "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_360x.jpg?v=1677038367 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_540x.jpg?v=1677038367 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_720x.jpg?v=1677038367 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/waffle-raglan-tee-black-435932_1000x.jpg?v=1677038367 1000w",
+      "size": "L",
+      "color": "nâu",
+      "createdAt": 1678337024273,
+      "updateAt": 1678337024273,
+      "id": 5
+    },
+    {
+      "product_id": 3,
+      "customer_id": 34,
+      "price": 109.95,
+      "quantity": 1,
+      "category": "men's clothing",
+      "title": "Áo thun Thái Lan màu trắng in hình cô gái Hawaii nhảy múa",
+      "image": "//cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_360x.jpg?v=1676635734 360w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_540x.jpg?v=1676635734 540w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_720x.jpg?v=1676635734 720w, //cdn.shopify.com/s/files/1/0551/7839/5845/products/tobi-280gsm-regular-20-boxy-t-shirt-green-102306_1000x.jpg?v=1676635734 1000w",
+      "size": "L",
+      "color": "xanh",
+      "createdAt": 1678339468526,
+      "updateAt": 1678339468526,
+      "id": 6
+    }
+  ],
+  "users": [
     {
       "email": "quocpro_h2l@yahoo.com",
       "password": "$2a$10$jk3xTmJvLEchPnbW8/Cvp.W0BMrSU94uO.nxn.vlQ.EBAzD4Ib4iW",
@@ -393,17 +171,6 @@
       "createdAt": 1675740713538,
       "updateAt": 1675740713538,
       "id": 8
-    },
-    {
-      "email": "quocpro_hl2@yahoo.com",
-      "password": "$2a$10$kxbiphI7w82.Bn0q/JAdFuRgLlIK3YLaAn/f2mWhHRqbvZEED7Ib.",
-      "username": "tck19971123",
-      "address": "halam, thangbinh,quang nam",
-      "phone": 840388888888,
-      "confirmPassword": "qưeqweqwe",
-      "createdAt": 1675740741549,
-      "updateAt": 1675740741549,
-      "id": 9
     },
     {
       "email": "123123123@gmail.com",
@@ -593,31 +360,6 @@
       "id": 26
     },
     {
-      "password": "123123123",
-      "email": "quoceric99@gmail.com",
-      "id": 27
-    },
-    {
-      "password": "123123123",
-      "email": "quoceric99@gmail.com",
-      "id": 28
-    },
-    {
-      "password": "123123123",
-      "email": "quoceric99@gmail.com",
-      "id": 29
-    },
-    {
-      "password": "123123123",
-      "email": "quoceric99@gmail.com",
-      "id": 30
-    },
-    {
-      "password": "123123123",
-      "email": "quoceric99@gmail.com",
-      "id": 31
-    },
-    {
       "email": "quoceric919@gmail.com",
       "password": "$2a$10$uYoZ6PGCKqXuekYZbeTyXO/dgh0KLpC535RpWvfWvWKXvivfT8NmK",
       "username": "quocvippro92111",
@@ -638,6 +380,30 @@
       "createdAt": 1676898004163,
       "updateAt": 1676898004163,
       "id": 33
+    },
+    {
+      "email": "quoceric9999@gmail.com",
+      "password": "$2a$10$OPDohwvHBpEEX1UpeAqb/OYBlMgllaOQ8vRHE4CCgjkeXW/rYJ24O",
+      "username": "quốc Eric",
+      "address": "halam, thangbinh,quang nam",
+      "phone": 840389809017,
+      "confirmPassword": "123123123",
+      "createdAt": 1678338524405,
+      "updateAt": 1678338524405,
+      "id": 34,
+      "admin": "admin"
+    },
+    {
+      "email": "quoceric99@gmail.com",
+      "password": "$2a$10$rI8hmlOkkTl7aYyDoPNABOvy6YazkiZWXEzZ4StFP6V5Do/Hzzgey",
+      "username": "quoceric99",
+      "address": "442 tieu la",
+      "phone": 840389809017,
+      "confirmPassword": "123123123",
+      "createdAt": 1678339859132,
+      "updateAt": 1678339859132,
+      "id": 35,
+      "admin":"admin"
     }
   ],
   "product": [
